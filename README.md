@@ -1,6 +1,7 @@
 # Exploring-GitHub-Actions-to-Customize-Repository-Automation
 
 Link to datasets: https://drive.google.com/drive/folders/1wm9o3GzjwLsg7MyFoNPjdAGG4IAZlT-X?usp=sharing
+Linked to raw scraped GitHub Action pages: https://drive.google.com/drive/folders/17fvLfh_fORfFAiWPeiHcOd5tyGiEbTiP?usp=sharing
 
 Link to Extraccted Action Repos:
 
